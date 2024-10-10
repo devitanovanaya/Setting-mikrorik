@@ -1,2 +1,2 @@
-# Setting-mikrorik
+# Setting-mikrotik
 Setting mikrotik
